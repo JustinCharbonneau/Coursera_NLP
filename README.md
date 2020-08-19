@@ -5,10 +5,10 @@ Methods Explored
 ------------
 [ ] Logistic Regression  
 [ ] Naive Bayes  
-[ ] FastText
+[ ] FastText  
 [ ] FastAI  
-Contructing a Language Model and a Sentiment Classifier for IMDB movie reviews
-[ ] SimpleTransformers
+Contructing a Language Model and a Sentiment Classifier for IMDB movie reviews   
+[ ] SimpleTransformers  
 
 Project Organization
 ------------
