@@ -1,7 +1,8 @@
 IMDB Sentiment Benchmark
 ==============================
 
-**Methods explored:**  
+Methods Explored
+------------
 [ ] Logistic Regression  
 [ ] Naive Bayes  
 [ ] FastAI  
