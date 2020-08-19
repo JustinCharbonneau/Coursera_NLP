@@ -3,6 +3,17 @@ IMDB Sentiment Benchmark
 
 [Dataset available here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) 
 
+
+Summary Results
+------------
+| Model 	| Accuracy 	|
+|-	|-	|
+| NB-BOW 	| 85.41 	|
+| NB-BOW-NGRAM 	| 86.76 	|
+| NB-TFIFG-NGRAM 	| 87.64 	|
+| FASTTEXT-DEFAULT 	| 89.66 	|
+| FASTTEXT-AUTOTUNE 	| 90.42 	|
+
 Methods Explored
 ------------
 [ ] Logistic Regression  
