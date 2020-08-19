@@ -4,4 +4,7 @@ channels:
 dependencies:
 - jupyterlab>=1.2
 - fastparquet
+- nltk
+- scikit-learn
 - pip
+- matplotlib
