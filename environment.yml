@@ -3,6 +3,5 @@ channels:
 - conda-forge
 dependencies:
 - jupyterlab>=1.2
+- fastparquet
 - pip
-- pip:
- - fastparquet
