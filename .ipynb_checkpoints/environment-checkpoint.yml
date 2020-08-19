@@ -1,0 +1,8 @@
+name: imdb
+channels:
+- conda-forge
+dependencies:
+- jupyterlab>=1.2
+- pip
+- pip:
+ - fastparquet
