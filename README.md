@@ -27,10 +27,12 @@ Prerequisites:
 Start by cloning the repo.  
 
 To create the `imdb` conda environment, enter the following in the command prompt:  
-`conda env create -f environment.yml`  
+```conda env create -f environment.yml
+```  
 
 To activate the `imdb` environment, enter the following:  
-`conda activate imdb`
+```conda activate imdb
+```  
 
 
 Project Organization
@@ -55,11 +57,5 @@ Project Organization
         │
         └── utils          <- Scripts
             └── PreProcessor.py
-            
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-
-
-
---------
 
 
