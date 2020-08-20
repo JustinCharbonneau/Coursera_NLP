@@ -3,6 +3,8 @@ notebooks/cache_dir
 notebooks/wandb
 notebooks/outputs
 notebooks/runs
+notebooks/.gitkeep
+notebooks/.ipynb_checkpoints
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
