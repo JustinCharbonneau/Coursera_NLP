@@ -36,6 +36,19 @@ To activate the `imdb` environment, enter the following:
 conda activate imdb
 ```  
 
+Notebooks
+-----------
+| Notebooks                               |
+| ----------------------------------------|
+| `0.0_explore_data.ipynb`           |
+| `0.1_explore_preprocessing.ipynb`  |
+| `1.0_naive_bayes.ipynb`  |
+| `2.0_fasttext.ipynb`  |
+| `3.0_simple_transformers.ipynb`  |
+| `4.0_fastai.ipynb`  |
+
+
+
 
 Project Organization
 ------------
