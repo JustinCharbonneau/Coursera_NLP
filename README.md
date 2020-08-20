@@ -40,14 +40,12 @@ Notebooks
 -----------
 | Notebooks                               |
 | ----------------------------------------|
-| `0.0_explore_data.ipynb`           |
-| `0.1_explore_preprocessing.ipynb`  |
-| `1.0_naive_bayes.ipynb`  |
-| `2.0_fasttext.ipynb`  |
-| `3.0_simple_transformers.ipynb`  |
-| `4.0_fastai.ipynb`  |
-
-
+| [0.0_explore_data.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/0.0_explore_data.ipynb)           |
+| [0.1_explore_preprocessing.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/0.1_explore_preprocessing.ipynb)  |
+| [1.0_naive_bayes.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/1.0_naive_bayes.ipynb)  |
+| [2.0_fasttext.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/2.0_fasttext.ipynb)  |
+| [3.0_simple_transformers.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/3.0_simple_transformers.ipynb)  |
+| [4.0_fastai.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/4.0_fastai.ipynb)  |
 
 
 Project Organization
