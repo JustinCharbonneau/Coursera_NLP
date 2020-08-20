@@ -19,7 +19,7 @@ Summary Results
 | FASTTEXT-DEFAULT 	| 89.66 	|[2.0_fasttext.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/2.0_fasttext.ipynb)|
 | FASTTEXT-AUTOTUNE 	| 90.42 	|[2.0_fasttext.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/2.0_fasttext.ipynb)|
 | ST-BERT-BASE-CASED   	| 91.00 	|[3.0_simple_transformers.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/3.0_simple_transformers.ipynb)|
-| FASTAI-ULMFIT     	| ---- 	|[4.0_fastai.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/4.0_fastai.ipynb)|
+| FASTAI-ULMFIT     	| WIP  	|[4.0_fastai.ipynb](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/blob/master/notebooks/4.0_fastai.ipynb)|
 
 Get Started
 ------------
