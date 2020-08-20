@@ -17,6 +17,7 @@ Summary Results
 | FASTTEXT-DEFAULT 	| 89.66 	|
 | FASTTEXT-AUTOTUNE 	| 90.42 	|
 | ST-BERT-BASE-CASED   	| 91.00 	|
+| FASTAI-ULMFIT     	| ---- 	|
 
 Get Started
 ------------
