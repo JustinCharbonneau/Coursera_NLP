@@ -3,7 +3,7 @@ IMDB Sentiment Benchmark
 
 [Dataset available here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) 
 
-The data was initially shuffled.  
+The data was initially shuffled with `df.sample(frac=1, random_state=2020)`.  
 I used 80% of the data to train different algorithms and tested them on the remaining 20%.  
 
 
