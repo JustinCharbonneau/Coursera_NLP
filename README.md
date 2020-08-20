@@ -13,7 +13,7 @@ Summary Results
 |-	|-	|
 | NB-BOW 	| 85.41 	|
 | NB-BOW-NGRAM 	| 86.76 	|
-| NB-TFIFG-NGRAM 	| 87.64 	|
+| NB-TFIDF-NGRAM 	| 87.64 	|
 | FASTTEXT-DEFAULT 	| 89.66 	|
 | FASTTEXT-AUTOTUNE 	| 90.42 	|
 | ST-BERT-BASE-CASED   	| 91.00 	|
