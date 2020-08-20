@@ -1,0 +1,11 @@
+# project specific folders
+notebooks/cache_dir
+notebooks/wandb
+notebooks/outputs
+notebooks/runs
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
