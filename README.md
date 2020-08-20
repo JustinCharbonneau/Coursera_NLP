@@ -27,11 +27,13 @@ Prerequisites:
 Start by cloning the repo.  
 
 To create the `imdb` conda environment, enter the following in the command prompt:  
-```conda env create -f environment.yml
+```bash
+conda env create -f environment.yml
 ```  
 
 To activate the `imdb` environment, enter the following:  
-```conda activate imdb
+```bash
+conda activate imdb
 ```  
 
 
