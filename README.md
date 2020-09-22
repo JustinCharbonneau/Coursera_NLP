@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/25487881/90787493-c7b8ad80-e2d2-11ea-9965-417425de52de.png)
 
+[![GitHub Issues](https://img.shields.io/github/issues/JustinCharbonneau/IMDB-Sentiment-Benchmark.svg)](https://github.com/JustinCharbonneau/IMDB-Sentiment-Benchmark/issues)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 IMDB Sentiment Benchmark
 ==============================
 
